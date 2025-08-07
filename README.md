@@ -81,6 +81,15 @@ No Power BI, Tableau, or SQL needed — just Excel.
 
 ## 📁 Project Structure
 
+ Excel-Coffee-Sales-Dashboard
+├── Coffee_Sales_Dashboard.xlsx # Final interactive Excel dashboard
+├── README.md # Project documentation
+├── screenshots/
+│ └── dashboard-preview.png # This dashboard screenshot
+├── data/ # Raw source files
+│ ├── CoffeeOrdersData.xlsx
+
+
 
 ---
 
@@ -104,6 +113,16 @@ This dashboard answers critical sales questions like:
 - What product should we focus on stocking, bundling, or upselling?
 
 ---
+
+---
+
+## 📚 Data Source
+
+The dataset used in this dashboard was sourced from [Kaggle]
+It includes sales records, customer data, and product details related to coffee sales over a multi-year period.
+
+*Data has been cleaned and transformed for the purpose of this project.*
+
 
 
 ## 🙋‍♀️ Feedback & Contact
